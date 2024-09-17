@@ -1,5 +1,5 @@
 - Hi, I’m amny! (exclamation mark not included)
-- I’m primarily interested in Python and C++, for usage in Electrical Engineering with Software Engineering.
+- I’m primarily interested in Python and C++, for usage in Electrical/Mechatronics Engineering.
 - I’m currently learning Python and C++ (big surprise).
 - I’m looking to collaborate and review anything Python or C++ related (with varying degrees of helpfulness)!
 - How to reach me: ammmny on discord
